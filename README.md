@@ -12,7 +12,7 @@ Paragraf trzeci
 
 **Pogrubienie**
 *Kursywa*
-__Podkreślenie__
+<ins>Podkreślenie</ins>
 
 
 >Cytat
@@ -52,5 +52,5 @@ __Podkreślenie__
 	</head>
 </html>
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+!(/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
