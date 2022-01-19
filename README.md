@@ -52,5 +52,5 @@ Paragraf trzeci
 	</head>
 </html>
 
-!(/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+!(/zadanko/san-juan-mountains.jpg "San Juan Mountains")
 
