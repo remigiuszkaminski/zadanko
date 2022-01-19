@@ -20,37 +20,26 @@ Paragraf trzeci
 
 
 
->1. First item
->2. Second item
->3. Third item
->4. Fourth item 
->
->>1. First item
->>2. Second item
->>3. Third item
->>4. Fourth item 
+1. jeden
+2. dwa
+    1. 1
+    2. 2
+3. trzy
 
-
->- First item
->- Second item
->- Third item
-    >- Indented item
-    >- Indented item
->- Fourth item 
->
->>- First item
->>- Second item
->>- Third item
-    >>- Indented item
-    >>- Indented item
->>- Fourth item 
-
-
+- 1
+- 2
+- 3
+    - 1
+    - 2
+- 4
+```
 <html>
 	<head>
 		<title>Tkstt</title>
 	</head>
 </html>
+```
+Lorem Ipsum Dolor `print("Lorem")`
 
-!(/zadanko/san-juan-mountains.jpg "San Juan Mountains")
+![Gory](san-juan-mountains.jpg)
 
